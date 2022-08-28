@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-u+4llt&5=o#cptt57lnlwxfceoh$%4^1+4snaie*1iyl4qriqz
 DEBUG = False
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1','']
+ALLOWED_HOSTS = ['127.0.0.1','loginsignupregister.herokuapp.com']
 
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
 # Application definition
